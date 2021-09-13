@@ -1,0 +1,52 @@
+state,sat_required,act_required
+Alabama,No,Yes
+Alaska,No,No
+Arizona,No,No
+Arkansas,No,Yes
+California,No,No
+Colorado,Yes,No
+Connecticut,Yes,No
+Delaware,Yes,No
+District of Columbia,Yes,No
+Florida,No,No
+Georgia,No,No
+Hawaii,No,Yes
+Idaho,Yes,No
+Illinois,Yes,No
+Indiana,No,No
+Iowa,No,No
+Kansas,No,Yes
+Kentucky,No,Yes
+Louisiana,No,Yes
+Maine,Yes,No
+Maryland,No,No
+Massachusetts,No,No
+Michigan,Yes,No
+Minnesota,Yes,Yes
+Mississippi,No,Yes
+Missouri,No,No
+Montana,No,Yes
+Nebraska,No,Yes
+Nevada,No,Yes
+New Hampshire,Yes,No
+New Jersey,No,No
+New Mexico,No,No
+New York,No,No
+North Carolina,No,Yes
+North Dakota,No,Yes
+Ohio,Yes,Yes
+Oklahoma,Yes,Yes
+Oregon,No,No
+Pennsylvania,No,No
+Rhode Island,Yes,No
+South Carolina,Yes,Yes
+South Dakota,No,No
+Tennessee,Yes,Yes
+Texas,No,No
+Utah,No,Yes
+Vermont,No,No
+Virginia,No,No
+Washington,No,No
+West Virginia,Yes,No
+Wisconsin,No,Yes
+Wyoming,No,Yes
